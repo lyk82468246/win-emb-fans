@@ -1,4 +1,5 @@
-# win-emb-fans
+# Windows Mobile 补完计划
+# Windows Mobile Instrumentality Project
 
 为 Windows Mobile / Windows CE 平台开发的软件
 
